@@ -1,0 +1,114 @@
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.csproj.AssemblyReference.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.AssemblyInfoInputs.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.AssemblyInfo.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.csproj.CoreCompileInputs.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.MvcApplicationPartsAssemblyInfo.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.RazorAssemblyInfo.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.RazorAssemblyInfo.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\staticwebassets\DMS Demo.StaticWebAssets.Manifest.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\staticwebassets\DMS Demo.StaticWebAssets.xml
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\scopedcss\bundle\DMS Demo.styles.css
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.TagHelpers.input.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.TagHelpers.output.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.RazorCoreGenerate.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\EditUserInRole.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\ListUsers.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\NotFound.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UserEdit.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.RazorTargetAssemblyInfo.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.RazorTargetAssemblyInfo.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\ref\DMS Demo.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\appsettings.Development.json
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\appsettings.json
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.StaticWebAssets.xml
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.exe
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.deps.json
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.runtimeconfig.json
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.runtimeconfig.dev.json
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\ref\DMS Demo.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.Views.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\DMS Demo.Views.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Humanizer.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.Views.pdb
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.csproj.CopyComplete
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\DMS Demo.genruntimeconfig.cache
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Views\Order\Cart.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Uom\Create.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Uom\Delete.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Uom\Details.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Uom\Edit.cshtml.g.cs
+F:\iti\AllFinalProjectITI\DMS Demo\DMS Demo\DMS Demo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Uom\Index.cshtml.g.cs
